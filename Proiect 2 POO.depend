@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585769691 source:c:\users\crist\desktop\proiect 2 poo\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
